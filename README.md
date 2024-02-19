@@ -6,5 +6,5 @@ pisilinux depolarını temizler <br>
 
 2) <b><i>farm local</i></b> <br>
 Paket derlemeleri için local makinede gerekli olan ortamı sağlar ve yönetir<br>
-<b>Kullanımı:</b> ./farm_local.sh #ekrana yönergeler gelecektir istediğiniz işlemin numarasını tıklayarak yaptırabilirsiniz.<br>
+<b>Kullanımı:</b> ./farm_local.sh #ekrana yönergeler gelecektir istediğiniz işlemin numarasını yazarak işlemi yaptırabilirsiniz.<br>
 <b>NOT:</b> scripti kullanmadan önce bir editör ile açıp içindeki yolları kendi sisteminize göre değiştirmeniz gerekmektedir, bu haliyle benim sistemime göre ayarlıdır yollar.
